@@ -1,3 +1,5 @@
+This module only work with HumHub 0.11.x
+
 __Author:__ Anton Kurnitzky
 
 #Installation
